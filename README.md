@@ -4,7 +4,6 @@
 
 Welcome to my GitHub! I’m Anushka, currently pursuing a B.Tech in Computer Science at SRM Institute of Science and Technology, Chennai. I specialize in Software Engineering and thrive at the intersection of technology and creativity. Whether it’s coding up smart solutions or designing beautiful interfaces, I love bringing ideas to life!
 
----
 
 # About Me
 
@@ -13,7 +12,6 @@ Welcome to my GitHub! I’m Anushka, currently pursuing a B.Tech in Computer Sci
 - Languages: English, Hindi, Malayalam, German (Beginner)
 - Always up for: Hackathons, creative projects, and collaborating with awesome people!
 
----
 
 # Skills
 
@@ -26,7 +24,6 @@ Problem Solving | Strategic Planning | Teamwork | Public Speaking | Creative Wri
 **Tools:**  
 Microsoft Office Suite | Graphic Design (Figma, Canva)
 
----
 
 # Projects
 
@@ -35,10 +32,10 @@ Microsoft Office Suite | Graphic Design (Figma, Canva)
 - Gamified Learning Platform for JEE: Team project for Ultron 8.0 Hackathon
 - Mini Games: Fun browser games using HTML, CSS, JavaScript
 - Animated GIFs: Created with Python
+- Java Projects using Swing and JDBC
 
 Check out my repos for more cool stuff!
 
----
 
 # Experience & Achievements
 
@@ -48,8 +45,6 @@ Check out my repos for more cool stuff!
 - Agnirva Space Internship Program: Completed
 - Academic Excellence: Consistently top CGPA
 
----
-
 # Hobbies & Fun Facts
 
 - UI/UX & Graphic Design
@@ -58,7 +53,6 @@ Check out my repos for more cool stuff!
 - Exploring new cultures & languages
 - Space & aerospace tech enthusiast
 
----
 
 # Let’s Connect!
 
