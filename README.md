@@ -33,9 +33,6 @@ Team project developed for the Ultron 8.0 Hackathon — a gamified study tool ta
 **Browser Mini Games**  
 A collection of interactive games built with HTML, CSS, and JavaScript.
 
-**Animated GIF Generator**  
-Python-based tool for programmatic GIF creation.
-
 **Java Swing + JDBC Applications**  
 Desktop applications demonstrating GUI development and database connectivity.
 
@@ -48,9 +45,6 @@ Managed event operations and cross-functional coordination for a licensed TEDx e
 
 **Associate Lead, Editorial — SRMKZILLA**  
 Led content strategy and writing for the university's Mozilla technical community.
-
-**Agnirva Space Internship Program**  
-Completed a structured internship with a focus on aerospace computing applications.
 
 **Hackathons**  
 Adobe India Hackathon · Ultron 8.0 · Multiple SRMIST internal competitions
