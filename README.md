@@ -55,7 +55,7 @@ Managed event operations and cross-functional coordination for a licensed TEDx e
 **Associate Lead, Editorial — SRMKZILLA**  
 Led content strategy and writing for the university's Mozilla technical community.
 
-**Hackathons** — Adobe India Hackathon · Ultron 8.0 · Multiple SRMIST internal competitions
+**Hackathons** — Adobe India Hackathon · Ultron 8.0 · Smart India Hackathon (Top 50) · Multiple SRMIST competitions
 
 ---
 
